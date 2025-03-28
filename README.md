@@ -33,7 +33,6 @@ This project focuses on building, tuning, and evaluating multiple **regression m
 ## ✅ Results
 
 - Best model: **XGBoost** (or Neural Net, depending on part B)
-- Final RMSE: _[check notebook for value]_
 - Robust performance and generalization verified on the holdout set.
 
 ---
